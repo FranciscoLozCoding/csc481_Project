@@ -21,6 +21,9 @@ The objective of this project is to develop and evaluate an automated driver dro
 
 https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd
 
+## App Deployment
+I deployed my final model in HuggingFace via a gradio app. [Check it out!]() TODO
+
 ## References: 
 
 - A Review of Recent Developments in Driver Drowsiness Detection Systems, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8914892/ 
