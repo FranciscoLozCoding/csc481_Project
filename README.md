@@ -1,6 +1,8 @@
-## Team: Francisco Lozano – Graduate student 
+## Team
+Francisco Lozano – Graduate student 
 
-## Type of project: Implementation project 
+## Type of project
+Implementation project 
 
 ## Description
 The objective of this project is to develop and evaluate an automated driver drowsiness detection system using facial analysis. This project aims to enhance road safety by identifying drowsy driving behavior and alerting the driver. Using image processing and machine learning we can accurately detect signs of drowsiness based on facial features, such as eye closure duration. By continuously monitoring these indicators through a camera feed, the system should be able to detect early signs of drowsiness and issue alerts before driving impairment occurs. As proof of concept, the system will first scan an image of a person’s face and establish a baseline. Then, through a graphical user interface (GUI), an additional image of the same person will be inputted to simulate drowsiness detection. The system will analyze this image and indicate whether signs of drowsiness are detected. 
