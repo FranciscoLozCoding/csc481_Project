@@ -17,6 +17,10 @@ The objective of this project is to develop and evaluate an automated driver dro
 
 4. Implementation and Testing: Develop a Python-based GUI for classification, integrating the drowsiness detection model. Test the system on a set of labeled images to ensure accurate detection. 
 
+## Dataset
+
+https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd
+
 ## References: 
 
 - A Review of Recent Developments in Driver Drowsiness Detection Systems, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8914892/ 
