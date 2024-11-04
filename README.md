@@ -41,4 +41,18 @@ I deployed my final model in HuggingFace via a gradio app. [Check it out!]() TOD
 - Albadawi Y, Takruri M, Awad M. “A Review of Recent Developments in Driver Drowsiness Detection Systems”. Sensors (Basel). 2022 Mar 7;22(5):2069. doi: 10.3390/s22052069. PMID: 35271215; PMCID: PMC8914892.
 - M. A. Faidhi Daud, A. P. Ismail, N. M. Tahir, K. Daud, N. M. Kasim and F. A. Mohamad, "Real Time Drowsy Driver Detection Using Image Processing on Python," 2022 IEEE 12th International Conference on Control System, Computing and Engineering (ICCSCE), Penang, Malaysia, 2022, pp. 131-136, doi: 10.1109/ICCSCE54767.2022.9935627.
 - A. Kumar and R. Patra, "Driver drowsiness monitoring system using visual behaviour and machine learning," 2018 IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), Penang, Malaysia, 2018, pp. 339-344, doi: 10.1109/ISCAIE.2018.8405495.
+- Nasri, I., Karrouchi, M., Snoussi, H., Kassmi, K., Messaoudi, A. (2022). Detection and Prediction of Driver Drowsiness for the Prevention of Road Accidents Using Deep Neural Networks Techniques. In: Bennani, S., Lakhrissi, Y., Khaissidi, G., Mansouri, A., Khamlichi, Y. (eds) WITS 2020. Lecture Notes in Electrical Engineering, vol 745. Springer, Singapore. https://doi.org/10.1007/978-981-33-6893-4_6
+
+## TODO List
+
+Make a seperate notebook for each item 1-5.
+
+1. [ ] Preprocess the images to show the eye features more. THIS IS THE MEAT OF THE PROJECT.
+1. [ ] Use Python, OpenCV, and dlib code to (1) perform facial landmark detection and (2) detect blinks in preprocesed images. THIS IS THE MEAT OF THE PROJECT.
+1. [ ] Improve the detect blinks using a SVM.
+1. [ ] Build a drowsiness detector, by monitoring the eye aspect ratio (given by blink detector) to see if the value falls but does not increase again, thus implying that the person has closed their eyes.
+1. [ ] Turn everything into a video stream analyzer.
+1. [ ] Build a gradio app implementing the system for a better UI/UX experience.
+1. [ ] Make the presentation.
+1. [ ] Write the Final report.
 
