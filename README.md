@@ -42,6 +42,7 @@ I deployed my final model in HuggingFace via a gradio app. [Check it out!]() TOD
 - M. A. Faidhi Daud, A. P. Ismail, N. M. Tahir, K. Daud, N. M. Kasim and F. A. Mohamad, "Real Time Drowsy Driver Detection Using Image Processing on Python," 2022 IEEE 12th International Conference on Control System, Computing and Engineering (ICCSCE), Penang, Malaysia, 2022, pp. 131-136, doi: 10.1109/ICCSCE54767.2022.9935627.
 - A. Kumar and R. Patra, "Driver drowsiness monitoring system using visual behaviour and machine learning," 2018 IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), Penang, Malaysia, 2018, pp. 339-344, doi: 10.1109/ISCAIE.2018.8405495.
 - Nasri, I., Karrouchi, M., Snoussi, H., Kassmi, K., Messaoudi, A. (2022). Detection and Prediction of Driver Drowsiness for the Prevention of Road Accidents Using Deep Neural Networks Techniques. In: Bennani, S., Lakhrissi, Y., Khaissidi, G., Mansouri, A., Khamlichi, Y. (eds) WITS 2020. Lecture Notes in Electrical Engineering, vol 745. Springer, Singapore. https://doi.org/10.1007/978-981-33-6893-4_6
+- Kazemi, V., & Sullivan, J. (2014). One millisecond face alignment with an ensemble of regression trees. 2014 IEEE Conference on Computer Vision and Pattern Recognition, 1867-1874. https://www.semanticscholar.org/paper/One-millisecond-face-alignment-with-an-ensemble-of-Kazemi-Sullivan/d78b6a5b0dcaa81b1faea5fb0000045a62513567?p2df 
 
 ## TODO List
 
