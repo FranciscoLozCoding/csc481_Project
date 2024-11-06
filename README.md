@@ -47,9 +47,7 @@ I deployed my final model in HuggingFace via a gradio app. [Check it out!]() TOD
 
 Make a seperate notebook for each item 1-5.
 
-1. [ ] Preprocess the images to show the eye features more. THIS IS THE MEAT OF THE PROJECT.
-    1. add noise to the images like gaussian and/or salt/pepper
-    1. use A4 I implemented a lot of the pre process there
+1. [X] Preprocess the images to show the eye features more. THIS IS THE MEAT OF THE PROJECT.
 1. [ ] Use Python, OpenCV, and dlib code to (1) perform facial landmark detection and (2) detect blinks in preprocesed images. THIS IS THE MEAT OF THE PROJECT.
 1. [ ] Improve the detect blinks using a SVM.
 1. [ ] Build a drowsiness detector, by monitoring the eye aspect ratio (given by blink detector) to see if the value falls but does not increase again, thus implying that the person has closed their eyes.
