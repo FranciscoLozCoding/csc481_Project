@@ -1,6 +1,6 @@
 # How to download
 
-To download the kaggle dataset, https://www.kaggle.com/datasets/franciscolozdatasci/csc481-project-dataset, use one of these methods
+To download the kaggle dataset, https://www.kaggle.com/datasets/franciscolozdatasci/csc481-project-dataset version 2, use one of these methods
 
 
 
