@@ -41,7 +41,7 @@ Make a seperate notebook for each item 1-5.
 1. [X] Improve the detect blinks using a eyelid coverage.
 1. [X] Build a drowsiness detector, by monitoring the eye aspect ratio (given by blink detector) to see if the value falls but does not increase again, thus implying that the person has closed their eyes.
 1. [X] Make the presentation.
+1. [X] Write the Final report.
 1. [ ] Build a gradio app implementing the system for a better UI/UX experience.
     - Just make it analyze images, no video stream 
-1. [ ] Write the Final report.
 
